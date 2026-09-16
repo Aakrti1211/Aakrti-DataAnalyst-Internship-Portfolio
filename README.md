@@ -23,7 +23,6 @@ Hypothesis testing (Welch's t-test, p < 0.001) validating the profitability gap,
 ## 🎥 Final Capstone Presentation
 This deck synthesizes all four tasks into one continuous business story — from raw data to a statistically validated decision.
 
-- 📄 [Aakrti_Capstone_Portfolio_Final.pdf](./Aakrti_Capstone_Portfolio_Final.pdf) — view directly on GitHub
 - 📊 [Aakrti_Capstone_Portfolio_Final.pptx](./Aakrti_Capstone_Portfolio_Final.pptx) — editable PowerPoint version
 
 ## 🛠️ Skills Demonstrated
